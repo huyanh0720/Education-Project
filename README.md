@@ -1,4 +1,4 @@
-# Project_Group1_education's description
+# Education Project's Description
 
 Dear trainers and everyone,
 
