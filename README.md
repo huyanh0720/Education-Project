@@ -2,7 +2,7 @@
 
 Dear trainers and everyone,
 
-This is Group 1’s GitHub on the first project of as FA Fresher by Minh (Duy-deliver) and Huy Anh ( Anh Huy Ha) . Our project topic for today is Evaluating class quality based on teachers, students, subject information and feedback.
+This is project of Anh Ha. My project topic is evaluating class quality based on teachers, students, subject information and feedback.
 
 The scenario: One very well-known education center X has one dataset of the students’ reviews. This company wants to analyze the class quality by student feedback based on their report card.
 
