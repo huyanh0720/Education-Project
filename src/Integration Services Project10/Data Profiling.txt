@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<DataProfile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/sqlserver/2008/DataDebugger/">
+  <ProfileVersion>1.0</ProfileVersion>
+  <DataSources>
+    <DtsDataSource ID="{80C89098-C0D6-42E1-AB2A-CC1495E2E3D7}" Name="DESKTOP-5EO5NDK\MSSQLSERVER01.EducationData">
+      <DtsConnectionManagerID>DESKTOP-5EO5NDK\MSSQLSERVER01.EducationData</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{51AFBAC5-6E44-4C5F-9E77-DC9E01114CBD}" Name="DESKTOP-LONCI57.EducationData 1">
+      <DtsConnectionManagerID>DESKTOP-LONCI57.EducationData 1</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{97BA57DB-9F32-4765-9392-535DC4F4E339}" Name="CourseAudit">
+      <DtsConnectionManagerID>CourseAudit</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{94513929-DA10-4B2B-94C1-316416356112}" Name="CSVOutput_Fact">
+      <DtsConnectionManagerID>CSVOutput_Fact</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{58B260FE-4C4A-4474-B4B6-9887B923F622}" Name="DataLog">
+      <DtsConnectionManagerID>DataLog</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{5FA713B3-F9B1-4A22-BDC3-5F5BFB5A21A2}" Name="DataProfiling">
+      <DtsConnectionManagerID>DataProfiling</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{440174A1-A660-4D47-878C-83692544148D}" Name="DESKTOP-LONCI57.EducationData">
+      <DtsConnectionManagerID>DESKTOP-LONCI57.EducationData</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{5E5C78D5-3D26-417D-A0BF-9BCC43BB8AC8}" Name="dw.hank0720">
+      <DtsConnectionManagerID>dw.hank0720</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{4B1C8FDD-0CEE-49F6-9EFC-3772780F71B1}" Name="FactTransactionAudit">
+      <DtsConnectionManagerID>FactTransactionAudit</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{1AAE63E5-E0F0-40EE-9D00-D2877B9EBA68}" Name="InstrutorAudit">
+      <DtsConnectionManagerID>InstrutorAudit</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{96E734A0-2D8C-4CC0-AC65-3AB93B03649D}" Name="RawData">
+      <DtsConnectionManagerID>RawData</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{BEB4B230-27D0-49FF-A3DD-6744AE29069D}" Name="s1.hank0720 2">
+      <DtsConnectionManagerID>s1.hank0720 2</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{B643DDA0-B1DD-4254-A654-72C18210221A}" Name="StudentAudit">
+      <DtsConnectionManagerID>StudentAudit</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{58204ACF-14CA-41E9-A9EB-7E886AED68AF}" Name="TransactionAudit">
+      <DtsConnectionManagerID>TransactionAudit</DtsConnectionManagerID>
+    </DtsDataSource>
+  </DataSources>
+  <DataProfileInput>
+    <ProfileMode>Exact</ProfileMode>
+    <Timeout>0</Timeout>
+    <Requests />
+  </DataProfileInput>
+  <DataProfileOutput>
+    <Profiles />
+  </DataProfileOutput>
+</DataProfile>
