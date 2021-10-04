@@ -7,7 +7,7 @@
 	 * [FactTransaction.csv](https://github.com/nhinguyen78/Project_Group1_education/blob/Group02/src/RunFile/FactTransaction.csv "FactTransaction.csv"): File Transaction after migrate data 
 	 * [ssisPut.sql](https://github.com/nhinguyen78/Project_Group1_education/blob/Group02/src/RunFile/ssisPut.sql "ssisPut.sql"): Put file from local to stage Snowflake. 
 ## Step 1: Creating ODBC Connection 
-- Down ODBC Driver from Snowlfake Computing 
+- Download ODBC Driver from Snowlfake Computing 
 - Create 2 connections with DNS with these configurations:
  + Connection 1: Data Warehouse
 	* Data Source: dw
