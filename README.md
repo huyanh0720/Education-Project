@@ -29,10 +29,10 @@ How to setup
 3. Authen Snowflake and run
 Please click [Snowflake](https://cf43998.southeast-asia.azure.snowflakecomputing.com/console#/partner)
 
-User for trainer 1: longbv
+User for tester 1: longbv
 Password: password123
 
-Use for trainer 2: mainq
+Use for tester 2: mainq
 Password: password123
 
 4. Link to PowerBI Visualization
